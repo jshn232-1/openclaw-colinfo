@@ -1,0 +1,43 @@
+{
+  "beijingTime": "2026-04-05-16",
+  "baseDir": "/home/jshn/.openclaw/workspace/2026-04-05",
+  "sites": [
+    {
+      "id": "a16z",
+      "url": "https://a16z.com",
+      "type": "general"
+    },
+    {
+      "id": "arstechnica",
+      "url": "https://arstechnica.com"
+    },
+    {
+      "id": "theverge",
+      "url": "https://www.theverge.com"
+    },
+    {
+      "id": "techcrunch",
+      "url": "https://techcrunch.com"
+    },
+    {
+      "id": "wired",
+      "url": "https://www.wired.com"
+    },
+    {
+      "id": "ycombinator-front",
+      "url": "https://news.ycombinator.com"
+    },
+    {
+      "id": "ycombinator-show",
+      "url": "https://news.ycombinator.com/show"
+    },
+    {
+      "id": "ycombinator-newest",
+      "url": "https://news.ycombinator.com/newest"
+    },
+    {
+      "id": "reddit-localllama",
+      "url": "https://www.reddit.com/r/LocalLLaMA"
+    }
+  ]
+}
